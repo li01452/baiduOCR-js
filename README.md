@@ -1,0 +1,2 @@
+# baiduOCR-js
+baiduOCR js
